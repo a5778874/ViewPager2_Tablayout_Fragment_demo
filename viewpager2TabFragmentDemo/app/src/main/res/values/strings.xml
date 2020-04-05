@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager2TabFragment</string>
+    <string name="home">首页</string>
+    <string name="me">我的</string>
+    <string name="invite">邀请</string>
+    <string name="statistic">统计</string>
+    <string name="family">家庭</string>
+</resources>
